@@ -1,1 +1,2 @@
 git clone <URL-for-repository>
+git diff # This is used to get the difference which are not yet staged.
